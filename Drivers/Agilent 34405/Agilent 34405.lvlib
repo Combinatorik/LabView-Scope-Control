@@ -65,4 +65,5 @@
 		<Item Name="Extended User Data.vi" Type="VI" URL="/&lt;instrlib&gt;/Agilent 34405/Private/Extended User Data.vi"/>
 	</Item>
 	<Item Name="Agilent 34405 Readme.html" Type="Document" URL="/&lt;instrlib&gt;/Agilent 34405/Agilent 34405 Readme.html"/>
+	<Item Name="Query Measurement Type.vi" Type="VI" URL="/&lt;instrlib&gt;/Agilent 34405/Public/Action-Status/Query Measurement Type.vi"/>
 </Library>

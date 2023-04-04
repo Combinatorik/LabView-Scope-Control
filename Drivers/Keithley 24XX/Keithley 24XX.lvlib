@@ -44,7 +44,7 @@
 			<Item Name="Configure Output List.vi" Type="VI" URL="/&lt;instrlib&gt;/Keithley 24XX/Public/Configure/Configure Output List.vi"/>
 			<Item Name="Configure Output Off Behavior.vi" Type="VI" URL="/&lt;instrlib&gt;/Keithley 24XX/Public/Configure/Configure Output Off Behavior.vi"/>
 			<Item Name="Configure Output Sweep.vi" Type="VI" URL="/&lt;instrlib&gt;/Keithley 24XX/Public/Configure/Configure Output Sweep.vi"/>
-			<Item Name="Configure Output.vi" Type="VI" URL="/&lt;instrlib&gt;/Keithley 24XX/Public/Configure/Configure Output.vi"/>
+			<Item Name="Query Voltage Setting.vi" Type="VI" URL="/&lt;instrlib&gt;/Keithley 24XX/Public/Action-Status/Query Voltage Setting.vi"/>
 			<Item Name="Configure Over Voltage Protection.vi" Type="VI" URL="/&lt;instrlib&gt;/Keithley 24XX/Public/Configure/Configure Over Voltage Protection.vi"/>
 			<Item Name="Configure Power Line Frequency.vi" Type="VI" URL="/&lt;instrlib&gt;/Keithley 24XX/Public/Configure/Configure Power Line Frequency.vi"/>
 			<Item Name="Configure Pulse Mode.vi" Type="VI" URL="/&lt;instrlib&gt;/Keithley 24XX/Public/Configure/Configure Pulse Mode.vi"/>
@@ -55,6 +55,7 @@
 			<Item Name="Configure Trigger Link.vi" Type="VI" URL="/&lt;instrlib&gt;/Keithley 24XX/Public/Configure/Configure Trigger Link.vi"/>
 			<Item Name="Configure Data Communication Format.vi" Type="VI" URL="/&lt;instrlib&gt;/Keithley 24XX/Public/Configure/Configure Data Communication Format.vi"/>
 			<Item Name="Configure Concurrent Measurements.vi" Type="VI" URL="/&lt;instrlib&gt;/Keithley 24XX/Public/Configure/Configure Concurrent Measurements.vi"/>
+			<Item Name="Configure Output.vi" Type="VI" URL="/&lt;instrlib&gt;/Keithley 24XX/Public/Configure/Configure Output.vi"/>
 		</Item>
 		<Item Name="Data" Type="Folder">
 			<Item Name="Low Level" Type="Folder">
